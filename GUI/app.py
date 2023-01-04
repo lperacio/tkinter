@@ -17,10 +17,10 @@ label_1 = Label(menu_inicial,
                 font="Arial 20 bold italic")
 label_1.pack()
 
-texto.set("Leandro Barboza Peracio")
+texto.set("João Alberto da Silva Sauro")
 
 label_2 = Label(menu_inicial, 
-                text="Este é o label 2\n\nLeandro Peracio ", 
+                text="Este é o label 2\n\nJoao Alberto ", 
                 bg="#faf200", 
                 fg="black", 
                 font="Arial 12 bold italic", 
